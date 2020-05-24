@@ -1,0 +1,12 @@
+.idea/
+*.iml
+terraform.tfstate*
+.terraform/
+*secret*
+*credentials*
+*password*
+*passphrase*
+.awsrc
+.azurerc
+*backend-config.tf
+*backend-config.tf.bak
